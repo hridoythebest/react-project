@@ -15,7 +15,7 @@ const Home = () => {
             <div className='md:w-1/2'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralGray md:w-3/4 leading-snug'>Lessons and insights <span className='text-brandPrimary leading-snug'>from 8 years</span> </h1>
               <p className='text-neutralGray text-base mb-8'>Where to grow your business as a photographer: site or social media?</p>
-              <button className='btn-primary'>Register</button>
+              <button className='px-7 py-2 bg-brandPrimary text-white rounded hover:bg-neutralGray transition-all duration-300 hover:-translate-y-4'>Register</button>
 
             </div>
           </div>
@@ -25,9 +25,9 @@ const Home = () => {
             </div>
             {/* hero text  */}
             <div className='md:w-1/2'>
-              <h1 className='text-5xl font-semibold mb-4 text-neutralGray md:w-3/4 leading-snug'>Lessons and insights <span className='text-brandPrimary leading-snug'>from 8 years</span> </h1>
+              <h1 className='text-5xl font-semibold mb-4 text-neutralGray md:w-3/4 leading-snug'>Learn and Earn Money<span className='text-brandPrimary leading-snug'>from 8 years</span> </h1>
               <p className='text-neutralGray text-base mb-8'>Where to grow your business as a photographer: site or social media?</p>
-              <button className='btn-primary'>Register</button>
+              <button className='px-7 py-2 bg-brandPrimary text-white rounded hover:bg-neutralGray transition-all duration-300 hover:-translate-y-4'>Register</button>
 
             </div>
           </div>
@@ -37,9 +37,9 @@ const Home = () => {
             </div>
             {/* hero text  */}
             <div className='md:w-1/2'>
-              <h1 className='text-5xl font-semibold mb-4 text-neutralGray md:w-3/4 leading-snug'>Lessons and insights <span className='text-brandPrimary leading-snug'>from 8 years</span> </h1>
+              <h1 className='text-5xl font-semibold mb-4 text-neutralGray md:w-3/4 leading-snug'>Let's and insights <span className='text-brandPrimary leading-snug'>from 8 years</span> </h1>
               <p className='text-neutralGray text-base mb-8'>Where to grow your business as a photographer: site or social media?</p>
-              <button className='btn-primary'>Register</button>
+              <button className='px-7 py-2 bg-brandPrimary text-white rounded hover:bg-neutralGray transition-all duration-300 hover:-translate-y-4'>Register</button>
 
             </div>
           </div>
